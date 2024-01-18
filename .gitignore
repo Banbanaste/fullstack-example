@@ -8,6 +8,4 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
-
-# node modules
-node_modules
+.vercel
